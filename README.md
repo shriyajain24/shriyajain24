@@ -1,4 +1,4 @@
-# Hi, I'm Shriya Jain 👋
+Shriya Jain 
 
 ## About Me
 I am a BCA undergraduate currently exploring the world of technology and learning through hands-on projects. My interests include:
@@ -26,7 +26,7 @@ I’m in the early stages of my journey, learning how to turn curiosity into pra
 - Share my progress and learning with the community
 
 ## Connect
-- GitHub: [shriyajain24](https://github.com/shriyajain24)
-- Always open to learning, collaborating, and growing
+-- LinkedIn : www.linkedin.com/in/shriya24
+- - Always open to learning, collaborating, and growing
 
 > “Learning every day, one step at a time.”
