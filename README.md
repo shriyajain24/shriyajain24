@@ -1,5 +1,32 @@
-Shriya Jain
+# Hi, I'm Shriya Jain 👋
 
-BCA Undergraduate :
+## About Me
+I am a BCA undergraduate currently exploring the world of technology and learning through hands-on projects. My interests include:
 
-I am a BCA student just starting my journey into GitHub. I'm exploring new technologies like AI & ML,Data Analytics,and I'll be sharing my learning and coding progress here.
+- Artificial Intelligence and Machine Learning
+- Data Analytics
+- Python, SQL, and data-driven problem solving
+- Building projects and documenting my learning journey on GitHub
+
+## Current Focus
+I’m in the early stages of my journey, learning how to turn curiosity into practical skills through coding, experimentation, and continuous improvement.
+
+## Skills
+- Python
+- SQL
+- Data Analysis
+- Git & GitHub
+- Problem Solving
+- Documentation & Learning
+
+## Goals
+- Learn new technologies consistently
+- Build useful and meaningful projects
+- Improve my coding and analytical skills
+- Share my progress and learning with the community
+
+## Connect
+- GitHub: [shriyajain24](https://github.com/shriyajain24)
+- Always open to learning, collaborating, and growing
+
+> “Learning every day, one step at a time.”
