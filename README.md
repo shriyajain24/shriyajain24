@@ -26,7 +26,7 @@ I’m in the early stages of my journey, learning how to turn curiosity into pra
 - Share my progress and learning with the community
 
 ## Connect
--- LinkedIn : www.linkedin.com/in/shriya24
-- - Always open to learning, collaborating, and growing
+- LinkedIn : www.linkedin.com/in/shriya24
+- Always open to learning, collaborating, and growing
 
 > “Learning every day, one step at a time.”
