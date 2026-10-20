@@ -5,7 +5,7 @@ I am a BCA undergraduate currently exploring the world of technology and learnin
 
 - Artificial Intelligence and Machine Learning
 - Data Analytics
-- Python, SQL, and data-driven problem solving
+- Python, SQL and data-driven problem solving
 - Building projects and documenting my learning journey on GitHub
 
 ## Current Focus
@@ -27,6 +27,6 @@ I’m in the early stages of my journey, learning how to turn curiosity into pra
 
 ## Connect
 - LinkedIn : www.linkedin.com/in/shriya24
-- Always open to learning, collaborating, and growing
+- Always open to learning, collaborating and growing
 
 > “Learning every day, one step at a time.”
